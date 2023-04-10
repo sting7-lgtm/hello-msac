@@ -1,2 +1,2 @@
 # hello-msac
-Introduction to GitHub
+A Github "Hello, World"
